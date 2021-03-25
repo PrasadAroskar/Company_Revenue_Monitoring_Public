@@ -18,11 +18,11 @@ A company valuation is a general process of determining the economic value of th
 
 # Technologies User:
 
-MSSQL
-MS Visio 
-Tableau
-Node.js
-HTML
-CSS
-jQuery
-Bootstrap
+    MSSQL 
+    MS Visio 
+    Tableau
+    Node.js
+    HTML
+    CSS
+    jQuery
+    Bootstrap
